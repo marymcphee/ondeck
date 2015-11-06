@@ -1,0 +1,478 @@
+"as_of_date","days_delinquent_old","days_delinquent_new","new_outstanding_principal_balance","initial_loan_amount","fico","sales_channel__c","type","current_collection_method","term","lender_payoff","average_bank_balance__c","last_cleared_payment_date"
+2012-11-01,180,180,29383.75,50000,641,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,46445.21,2012-11-01
+2012-11-01,9,9,3200.41,10000,631,"Referral","Loan - Renewal","ACH Pull",6,0,1284.07,2012-11-01
+2012-11-01,56,75,56207.38,60000,671,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,29415.7,2012-07-30
+2012-11-01,19,30,47496.37,50000,626,"Direct","Loan - New Customer","ACH Pull",6,0,61028.12,2012-10-04
+2012-11-01,35,54,21012.15,25000,587,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2046.37,2012-09-07
+2012-11-01,12,26,15423.23,20000,706,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,2773.77,2012-11-01
+2012-11-01,180,180,1409.18,25000,NA,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,10393.84,2012-09-17
+2012-11-01,1,6,8556.03,10000,654,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2346.46,2012-10-31
+2012-11-01,1,0,809.36,10000,593,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2262,2012-10-31
+2012-11-01,46,65,2381.85,15000,537,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,1407.21,3176.13,2012-08-27
+2012-11-01,3,6,23345.52,25000,716,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,0,423.57,2012-11-01
+2012-11-01,2,0,20395.49,30000,631,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2105.21,2012-11-01
+2012-11-01,1,0,17000,17000,647,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3905.75,2012-10-31
+2012-11-01,47,66,18719.52,20000,541,"Direct","Loan - New Customer","ACH Pull",6,0,5756.67,2012-08-28
+2012-11-01,4,9,15000,15000,734,"Direct","Loan - New Customer","ACH Pull",6,0,2994.42,2012-10-30
+2012-11-01,3,13,58902.55,75000,686,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,15785.22,2012-10-31
+2012-11-01,61,80,20000,20000,687,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3291.55,2012-07-11
+2012-11-01,29,42,35000,35000,584,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,8689.75,2072.33,2012-11-01
+2012-11-01,61,68,6158.95,17500,611,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3603.82,2012-11-01
+2012-11-01,6,1,3888.58,10000,694,"Direct","Loan - New Customer","ACH Pull",6,0,2833.9,2012-11-01
+2012-11-01,2,2,61915.93,75000,648,"Direct","Loan - New Customer","ACH Pull",12,37500,7804.34,2012-11-01
+2012-11-01,180,180,15817.58,50000,794,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,15080.6,2012-10-19
+2012-11-01,17,33,33000,33000,619,"FAP: Managed Application Program","Loan - New Customer","Split Funding",18,16892.7,4245.33,2012-11-01
+2012-11-01,41,60,35000,35000,689,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,49921.18,2012-09-04
+2012-11-01,21,38,13585.53,35000,696,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,34422,2012-10-26
+2012-11-01,4,23,8150.82,10000,620,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2594.94,2012-10-26
+2012-11-01,27,0,807.42,12000,589,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1380.65,2012-10-18
+2012-11-01,6,0,6101.18,10000,710,"Referral","Loan - New Customer","ACH Pull",6,0,1132.31,2012-11-01
+2012-11-01,1,0,91478.8,100000,735,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,33993.01,2012-11-01
+2012-11-01,4,12,20000,20000,624,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,1425.57,2012-10-31
+2012-11-01,60,79,8939.01,10000,682,"Direct","Loan - New Customer","ACH Pull",6,0,5361.88,2012-08-02
+2012-11-01,1,0,12401.77,20000,595,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,5619.88,4785.48,2012-11-01
+2012-11-01,7,26,13906.14,15000,582,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,1430,2442.23,2012-10-23
+2012-11-01,5,5,52347.64,75000,704,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,26570.71,2012-11-01
+2012-11-01,15,15,10561.71,15000,533,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4857.34,2012-11-01
+2012-11-01,4,4,21427.83,25000,653,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,6181.72,1726.75,2012-11-01
+2012-11-01,1,0,4911.25,15000,654,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4287.2,2012-10-31
+2012-11-01,14,24,16504.69,25000,631,"Direct","Loan - New Customer","ACH Pull",6,0,8233.01,2012-10-12
+2012-11-01,55,74,30951.37,35000,562,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,9880.33,5794,2012-08-14
+2012-11-01,33,52,35000,35000,652,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,28789.89,2012-09-14
+2012-11-01,12,14,14852.94,20000,704,"Direct","Loan - New Customer","ACH Pull",6,0,15511.94,2012-11-01
+2012-11-01,4,4,36610.05,47000,564,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2197.4,2012-11-01
+2012-11-01,3,4,16178.39,25000,659,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6426.22,2012-10-30
+2012-11-01,5,6,43801,50000,636,"Direct","Loan - Renewal","ACH Pull",9,0,9629.66,2012-11-01
+2012-11-01,14,16,36321.94,61000,639,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,13903.19,2012-11-01
+2012-11-01,5,0,3113.79,10000,574,"Direct","Loan - New Customer","ACH Pull",6,0,2106.54,2012-11-01
+2012-11-01,1,1,12364.36,15000,704,"Direct","Loan - Renewal","ACH Pull",6,0,4934.08,2012-11-01
+2012-11-01,61,80,48538.22,50000,644,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,136249.24,2012-07-03
+2012-11-01,7,13,4932.64,15000,597,"Direct","Loan - New Customer","ACH Pull",6,0,7056.35,2012-11-01
+2012-11-01,2,18,5349.44,6000,612,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",5,0,1123.34,2012-10-31
+2012-11-01,7,21,20292.34,35000,691,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,143727.37,2012-10-26
+2012-11-01,52,53,29250.66,75000,688,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,15578.94,2012-11-01
+2012-11-01,31,50,7320.17,11500,549,"Direct","Loan - New Customer","ACH Pull",6,0,4241.14,2012-10-02
+2012-11-01,2,19,3824.42,15000,658,"Direct","Loan - New Customer","ACH Pull",6,0,4627.3,2012-11-01
+2012-11-01,12,27,16000,16000,557,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3810.52,2012-10-16
+2012-11-01,30,42,7982.6,15000,535,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,17811.53,2012-11-01
+2012-11-01,2,6,4837.85,7000,577,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1505,2012-10-30
+2012-11-01,30,49,11651.34,15000,519,"Referral","Loan - New Customer","ACH Pull",6,0,49554.72,2012-09-19
+2012-11-01,25,44,52640.51,75000,688,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,10547.89,2012-10-04
+2012-11-01,77,83,10571.2,11000,549,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2462.98,2012-07-16
+2012-11-01,10,10,30817.3,50000,667,"Direct","Loan - New Customer","ACH Pull",9,0,9453.81,2012-11-01
+2012-11-01,1,16,2153.52,6000,662,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2191.28,2012-10-31
+2012-11-01,13,13,26389.33,40000,682,"Direct","Loan - New Customer","ACH Pull",6,20780.05,22435.61,2012-11-01
+2012-11-01,1,1,21022.07,28000,669,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,4749.45,2012-11-01
+2012-11-01,3,21,20716.57,30000,577,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,27938.55,2012-10-29
+2012-11-01,4,4,35358.92,40000,690,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,2097.17,4973,2012-11-01
+2012-11-01,2,0,723.72,10000,545,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2985.94,2012-11-01
+2012-11-01,57,72,5063.35,15000,552,"Direct","Loan - New Customer","ACH Pull",6,0,1828.73,2012-10-24
+2012-11-01,180,180,32045.05,50000,653,"Direct","Loan - Renewal","ACH Pull",12,0,4905.28,2012-11-01
+2012-11-01,118,137,15475.89,35000,630,"Direct","Loan - Renewal","ACH Pull",6,0,6251.69,2012-10-16
+2012-11-01,10,10,47978.14,90000,697,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,63236.77,2012-11-01
+2012-11-01,1,1,24805.64,35000,657,"FAP: Managed Application Program","Loan - Renewal","Transfer Account Vendors",12,0,2497.59,2012-11-01
+2012-11-01,27,46,28571.74,35000,616,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,8197.77,2012-09-27
+2012-11-01,94,104,21632.91,50000,643,"Direct","Loan - New Customer","ACH Pull",12,15043.46,9515.22,2012-11-01
+2012-11-01,12,31,17748.96,40000,715,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,9631.05,2012-10-16
+2012-11-01,3,3,5611.69,6000,583,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1476.45,2012-11-01
+2012-11-01,1,9,32048.26,40000,613,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,29451.67,2012-11-01
+2012-11-01,4,4,17989.05,25000,721,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,9092.33,2012-11-01
+2012-11-01,38,0,345.2,35000,683,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,12894.84,2012-11-01
+2012-11-01,15,34,14141.42,25000,591,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,20915,2012-10-11
+2012-11-01,33,50,245.06,6000,693,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,940.03,2012-11-01
+2012-11-01,31,50,35000,35000,550,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,14842.26,2012-09-18
+2012-11-01,23,42,11709.43,25000,651,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,20448,2012-10-03
+2012-11-01,1,9,20000,20000,710,"FAP: Managed Application Program","Loan - New Customer","Split Funding",9,0,3937.9,2012-11-01
+2012-11-01,27,41,32467.03,40000,787,"Direct","Loan - Renewal","ACH Pull",12,0,22730.59,2012-11-01
+2012-11-01,5,3,9318.83,35000,674,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,31161.28,2012-10-31
+2012-11-01,2,2,18660.12,20000,681,"Referral","Loan - New Customer","ACH Pull",6,0,6662.44,2012-11-01
+2012-11-01,41,60,35000,35000,617,"Direct","Loan - New Customer","ACH Pull",6,0,74879.24,2012-09-04
+2012-11-01,1,2,4619.69,10000,684,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3073.68,2012-11-01
+2012-11-01,14,33,35000,35000,583,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,17095.54,3327.04,2012-10-15
+2012-11-01,68,87,47384.35,75000,688,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,47341.89,2012-08-06
+2012-11-01,6,0,2530.71,20000,567,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3409.67,2012-11-01
+2012-11-01,180,180,6403.08,50000,682,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,6659.97,2012-10-25
+2012-11-01,6,6,6921.68,15000,622,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,544.38,2306.86,2012-11-01
+2012-11-01,14,33,44394.61,50000,639,"Direct","Loan - New Customer","ACH Pull",6,0,27694.62,2012-10-18
+2012-11-01,28,43,4942.3,6000,531,"Direct","Loan - New Customer","ACH Pull",6,0,1498,2012-10-31
+2012-11-01,15,34,18541.54,20000,679,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2160.74,2012-10-11
+2012-11-01,8,27,13854.81,20000,506,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,1440.27,2012-10-25
+2012-11-01,18,37,17000,17000,504,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5021.16,2012-10-19
+2012-11-01,38,57,13204.74,30000,693,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",18,0,2918.8,2012-09-10
+2012-11-01,6,6,9942.24,25000,605,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,7132.33,2012-11-01
+2012-11-01,12,28,4197.64,35000,522,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,42584.23,2012-10-18
+2012-11-01,10,15,21935.4,30000,700,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,8331.44,2012-11-01
+2012-11-01,2,11,49627.86,75000,722,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,23549.91,2012-10-30
+2012-11-01,1,0,45329.03,75000,622,"Referral","Loan - New Customer","ACH Pull",9,0,111821.51,2012-11-01
+2012-11-01,14,0,4122.94,35000,579,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,10809.46,2012-11-01
+2012-11-01,9,15,15000,15000,677,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2037.48,2012-10-19
+2012-11-01,25,39,80000,80000,619,"FAP: Managed Application Program","Loan - Renewal","Split Funding",18,0,4646.58,2012-11-01
+2012-11-01,1,0,6844.85,20000,589,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,5901,2012-10-31
+2012-11-01,3,3,22661.46,35000,614,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,5383.36,2012-11-01
+2012-11-01,10,11,3027.05,10000,639,"Referral","Loan - New Customer","ACH Pull",6,0,9600.36,2012-11-01
+2012-11-01,44,63,2550.02,6000,561,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2998.06,2012-09-13
+2012-11-01,26,35,14849.5,20000,672,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,5877.13,4191.99,2012-11-01
+2012-11-01,3,10,15077.24,20000,591,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,8071.79,2152.59,2012-10-29
+2012-11-01,2,2,15000,15000,544,"Direct","Loan - New Customer","ACH Pull",6,0,4553.94,2012-11-01
+2012-11-01,3,3,6848.86,35000,739,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,9101.41,2012-11-01
+2012-11-01,17,36,24237.28,25000,623,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,8400,2932.26,2012-10-17
+2012-11-01,35,54,7857.07,15000,512,"Direct","Loan - New Customer","ACH Pull",6,0,1796.05,2012-09-14
+2012-11-01,1,1,35798.54,50000,650,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,4442.81,2012-11-01
+2012-11-01,52,71,14066.42,15000,590,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2118.28,2012-08-21
+2012-11-01,14,33,28225.69,35000,652,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,9914.73,2012-10-29
+2012-11-01,42,61,50000,50000,686,"Direct","Loan - Renewal","ACH Pull",9,0,10615.08,2012-08-31
+2012-11-01,24,43,7234.51,13000,546,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2609.49,2012-10-05
+2012-11-01,60,79,10284.82,20000,659,"Direct","Loan - New Customer","ACH Pull",4,0,9678.17,2012-08-07
+2012-11-01,3,13,75000,75000,635,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,5379.91,2012-11-01
+2012-11-01,6,12,9791.56,14000,616,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,7246.23,2012-11-01
+2012-11-01,22,32,30595.76,45000,677,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,1984.4,10797.59,2012-10-04
+2012-11-01,11,26,5509,6000,590,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3320.74,2012-11-01
+2012-11-01,2,3,11381.49,15000,587,"Direct","Loan - New Customer","ACH Pull",6,0,2904.27,2012-11-01
+2012-11-01,5,5,72317.34,100000,721,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,9394.33,2012-11-01
+2012-11-01,3,10,40000,40000,681,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,14932.77,3694.53,2012-11-01
+2012-11-01,49,68,14249.43,75000,680,"Direct","Loan - Renewal","ACH Pull",12,0,15201.33,2012-08-24
+2012-11-01,8,20,2678.75,10000,604,"Referral","Loan - New Customer","ACH Pull",6,0,2711.25,2012-11-01
+2012-11-01,2,0,9185.23,10000,536,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3075.88,2012-11-01
+2012-11-01,38,38,5906.57,20000,561,"Direct","Loan - Renewal","ACH Pull",6,0,2223.96,2012-11-01
+2012-11-01,32,51,13951.74,20000,693,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1249.48,2012-09-27
+2012-11-01,2,1,17951.49,35000,668,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,NA,2012-11-01
+2012-11-01,24,39,6000,6000,647,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1335.75,2012-10-02
+2012-11-01,10,10,32047.28,35000,591,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,46288.49,2012-11-01
+2012-11-01,29,38,9859.67,40000,704,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,7817.99,2012-11-01
+2012-11-01,46,61,3633.71,20000,621,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,12711.18,2012-11-01
+2012-11-01,4,4,65000,65000,652,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",18,0,2096,2012-11-01
+2012-11-01,6,6,8864.16,50000,621,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,9369.07,2012-11-01
+2012-11-01,51,70,12936.48,15000,556,"Direct","Loan - New Customer","ACH Pull",6,0,14613.46,2012-08-20
+2012-11-01,25,28,11143.69,15000,625,"Referral","Loan - New Customer","ACH Pull",6,0,6026.64,2012-11-01
+2012-11-01,55,57,3279.41,25000,555,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,14353.96,3852.79,2012-10-31
+2012-11-01,3,17,30000,30000,600,"FAP: Managed Application Program","Loan - New Customer","Split Funding",9,9135.38,6204.07,2012-11-01
+2012-11-01,4,22,25377.94,40000,699,"Direct","Loan - New Customer","ACH Pull",9,0,7367.04,2012-11-01
+2012-11-01,10,16,60542.9,75000,700,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,9210.53,2012-10-29
+2012-11-01,1,4,11380.16,17000,646,"Direct","Loan - Renewal","ACH Pull",6,0,2683.58,2012-10-31
+2012-11-01,47,66,15000,15000,661,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3649.57,2012-08-28
+2012-11-01,1,3,11532.41,13300,634,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1423.12,2012-11-01
+2012-11-01,13,13,7687.45,25000,695,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,1427.59,2012-11-01
+2012-11-01,4,17,10777.7,15000,655,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,39010.45,2012-10-30
+2012-11-01,6,21,7922.37,20000,578,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3982.18,2012-10-30
+2012-11-01,180,180,959.07,35000,650,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3180.78,2011-04-28
+2012-11-01,1,0,21316.33,35000,724,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,12219.15,2012-11-01
+2012-11-01,1,1,13187.32,15000,671,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4852.45,2012-11-01
+2012-11-01,1,1,33603.87,40000,652,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",18,0,4922.32,2012-11-01
+2012-11-01,11,30,17519.4,25000,501,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,13577.19,2012-10-17
+2012-11-01,32,41,20596.51,25000,740,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,4995.07,2012-10-30
+2012-11-01,24,43,37249.49,50000,702,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,14153.13,2012-09-27
+2012-11-01,1,1,15567.7,25000,693,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,3109.2,2012-11-01
+2012-11-01,64,83,11405.32,15000,596,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,10219.72,2012-08-01
+2012-11-01,1,1,11282.01,20000,679,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,4928.68,2012-11-01
+2012-11-01,25,44,6000,6000,645,"Direct","Loan - New Customer","ACH Pull",6,0,2077.34,2012-09-28
+2012-11-01,50,69,4949.48,10000,679,"Referral","Loan - New Customer","ACH Pull",6,0,1066.68,2012-09-11
+2012-11-01,20,39,20000,20000,640,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4640.94,2012-10-03
+2012-11-01,4,20,7264.11,10000,660,"Direct","Loan - New Customer","ACH Pull",6,0,1326.19,2012-10-26
+2012-11-01,30,49,73301.52,75000,611,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,13080,2012-09-19
+2012-11-01,61,80,7000,7000,625,"Referral","Loan - Renewal","ACH Pull",6,0,2570.01,2012-08-06
+2012-11-01,44,0,9446.46,25000,517,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,11672.71,2206.9,2012-08-29
+2012-11-01,10,29,25000,25000,644,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,2968,7160.13,2012-10-18
+2012-11-01,129,0,0.58,25000,762,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5603.02,2011-12-14
+2012-11-01,7,7,23199.26,35000,603,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3124.68,2012-11-01
+2012-11-01,1,0,3078.14,20000,720,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",6,0,6726.82,2012-11-01
+2012-11-01,5,5,6869.79,10000,644,"Referral","Loan - New Customer","ACH Pull",6,0,4158.99,2012-11-01
+2012-11-01,29,48,13526.35,15000,556,"Direct","Loan - New Customer","ACH Pull",6,0,41124.68,2012-09-24
+2012-11-01,9,14,68963.74,85000,662,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,35140.33,2012-10-22
+2012-11-01,5,5,21087.57,30000,681,"Direct","Loan - Renewal","ACH Pull",9,0,11600.33,2012-11-01
+2012-11-01,1,1,5115.59,25000,631,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4004.11,2012-11-01
+2012-11-01,49,68,20955.01,21000,648,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,12482.34,2484.98,2012-08-15
+2012-11-01,61,80,19675.79,40000,657,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,8288.81,2012-07-11
+2012-11-01,1,7,20328.62,30000,720,"Direct","Loan - New Customer","ACH Pull",6,0,14997.24,2012-10-31
+2012-11-01,168,0,0,10000,680,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,18888.44,2011-11-14
+2012-11-01,53,72,3940.24,6000,507,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2141.85,2012-08-16
+2012-11-01,1,1,5976,9000,590,"Referral","Loan - New Customer","ACH Pull",6,0,1955.49,2012-11-01
+2012-11-01,15,15,19022.68,50000,689,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,8986.58,2012-11-01
+2012-11-01,9,0,1764.61,50000,679,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,9122.06,2012-11-01
+2012-11-01,16,35,26548.38,50000,632,"Direct","Loan - Renewal","ACH Pull",12,0,5456.6,2012-10-24
+2012-11-01,31,50,5286.62,6000,605,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1486.23,2012-09-18
+2012-11-01,61,0,4374.25,20000,632,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,7588.62,2012-11-01
+2012-11-01,55,74,18711.73,20000,696,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,12846.84,2012-08-15
+2012-11-01,4,16,7855.19,10000,706,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4751.59,2012-10-29
+2012-11-01,38,56,30119.51,33000,571,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,10396.21,3726.06,2012-10-29
+2012-11-01,37,56,28064.12,35000,742,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,9972.73,2012-09-17
+2012-11-01,11,11,6481.92,25000,659,"Referral","Loan - New Customer","ACH Pull",6,0,2590.48,2012-11-01
+2012-11-01,54,73,30000,30000,600,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,3923.58,7763.33,2012-08-15
+2012-11-01,38,57,1521.73,6000,675,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,1141,2012-10-24
+2012-11-01,1,7,59105.79,100000,662,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,340080.23,2012-11-01
+2012-11-01,5,24,17169.74,20000,522,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5684.85,2012-10-25
+2012-11-01,23,42,8044.34,25000,683,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5966.89,2012-09-28
+2012-11-01,36,36,1570.34,6000,691,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1732.63,2012-11-01
+2012-11-01,1,1,25465.28,40000,719,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,2573.92,2012-11-01
+2012-11-01,2,0,5310.64,15000,555,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6496.72,2012-11-01
+2012-11-01,1,1,15590.04,30000,656,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,1689.4,2012-11-01
+2012-11-01,39,39,3515.49,10000,606,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2804.95,2012-11-01
+2012-11-01,7,26,47431.12,55000,688,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,9129.17,2012-10-23
+2012-11-01,28,47,24471.41,30000,610,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,8727.14,9633.58,2012-09-21
+2012-11-01,37,52,29442.18,35000,521,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4980.91,2012-11-01
+2012-11-01,2,17,14488.07,30000,595,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,11028.98,2066.17,2012-10-30
+2012-11-01,35,54,7345.1,10000,584,"Direct","Loan - New Customer","ACH Pull",6,0,3021.65,2012-09-12
+2012-11-01,7,17,8368.72,20000,643,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6648.67,2012-10-25
+2012-11-01,10,10,15859.52,50000,660,"Direct","Loan - Renewal","ACH Pull",6,0,16690.83,2012-11-01
+2012-11-01,2,3,28530.58,35000,781,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5878.92,2012-11-01
+2012-11-01,44,63,252.86,15000,626,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3439.69,2012-10-01
+2012-11-01,9,8,28165.2,45000,616,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,8942.5,2012-11-01
+2012-11-01,4,4,8875.25,35000,685,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,17631.78,2012-11-01
+2012-11-01,58,77,35000,35000,806,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,11555.69,2012-08-09
+2012-11-01,33,52,62574.81,65000,607,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,14249.78,2012-09-14
+2012-11-01,29,48,9103.89,15000,568,"Referral","Loan - New Customer","ACH Pull",6,0,18058.78,2012-09-20
+2012-11-01,103,122,6000,6000,603,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1594.88,2012-06-07
+2012-11-01,2,13,26077.13,35000,640,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2818.15,2012-11-01
+2012-11-01,3,13,84317.84,100000,708,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,32339.93,2012-11-01
+2012-11-01,1,1,21354.44,25000,655,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",18,0,3168.16,2012-11-01
+2012-11-01,61,80,21863.34,35000,546,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,18037.56,2012-08-07
+2012-11-01,40,59,19888.64,20000,688,"Direct","Loan - Renewal","ACH Pull",6,0,4297.6,2012-09-05
+2012-11-01,1,13,25000,25000,585,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,15537.9,6705.31,2012-11-01
+2012-11-01,43,62,45215.93,75000,596,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,15762.35,2012-09-10
+2012-11-01,61,80,22174.85,25000,644,"Direct","Loan - New Customer","ACH Pull",6,0,7115.33,2012-07-18
+2012-11-01,3,3,17816.44,30000,616,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6750.33,2012-11-01
+2012-11-01,1,9,31096.59,50000,667,"Direct","Loan - New Customer","ACH Pull",6,0,11155.61,2012-10-31
+2012-11-01,20,36,3325.54,10000,555,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,1783.14,1699.81,2012-10-05
+2012-11-01,61,80,22600.29,25000,710,"Direct","Loan - New Customer","ACH Pull",6,0,33252.59,2012-07-26
+2012-11-01,33,52,8935.8,15000,650,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,2072.44,5565.73,2012-10-31
+2012-11-01,31,47,28370.73,50000,682,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,14105.92,2012-10-29
+2012-11-01,38,38,11245.69,35000,709,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,13786,2876.59,2012-11-01
+2012-11-01,47,58,29061.08,50000,701,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,9909.88,2012-11-01
+2012-11-01,6,23,9510.7,25000,730,"Direct","Loan - New Customer","ACH Pull",6,0,7176.48,2012-10-31
+2012-11-01,6,6,8455.12,15000,670,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6298.42,2012-11-01
+2012-11-01,24,0,2523.97,15000,627,"Referral","Loan - Renewal","ACH Pull",6,0,9623.58,2012-11-01
+2012-11-01,16,25,24147.98,35000,564,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,7566.65,2012-10-30
+2012-11-01,42,61,13526.35,15000,561,"Direct","Loan - New Customer","ACH Pull",6,0,42437.91,2012-09-04
+2012-11-01,16,35,19748.58,50000,639,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,17140.34,2498.79,2012-10-12
+2012-11-01,10,18,12998.32,25000,572,"Direct","Loan - New Customer","ACH Pull",6,0,2142.33,2012-11-01
+2012-11-01,22,33,19042.7,35000,774,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",18,0,1867.58,2012-10-09
+2012-11-01,3,3,2880.14,6000,634,"Direct","Loan - Renewal","ACH Pull",6,0,2539,2012-11-01
+2012-11-01,54,60,10000,10000,677,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5797.39,2012-08-15
+2012-11-01,18,37,35273.15,70000,711,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,6595.3,2012-10-05
+2012-11-01,63,82,16281.69,35000,573,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,7057.45,2012-08-09
+2012-11-01,13,21,98740.24,100000,712,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,7034.67,2012-11-01
+2012-11-01,8,18,10157.51,12000,732,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,5116.5,2012-10-22
+2012-11-01,22,38,7993.29,20000,701,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4816.23,2012-10-29
+2012-11-01,10,9,30258.25,35000,583,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,17472.56,9435.39,2012-10-31
+2012-11-01,5,6,5019.9,6000,564,"Direct","Loan - New Customer","ACH Pull",6,0,1490.42,2012-11-01
+2012-11-01,9,28,9471.33,15000,613,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,12182.94,2012-10-19
+2012-11-01,20,39,9466.19,15000,641,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6993.69,2012-10-03
+2012-11-01,63,82,20.62,20000,688,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,28336.05,2012-04-24
+2012-11-01,4,16,14916.78,15000,547,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4504.41,2012-10-30
+2012-11-01,2,13,40000,40000,715,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,2778.58,2012-11-01
+2012-11-01,1,1,9226.68,20000,654,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,357.07,2012-11-01
+2012-11-01,1,11,24288.55,35000,552,"Direct","Loan - New Customer","ACH Pull",6,14074.81,7875.26,2012-10-31
+2012-11-01,6,6,10449.79,17500,634,"Direct","Loan - New Customer","ACH Pull",6,0,7772.53,2012-11-01
+2012-11-01,41,0,0,35000,591,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,15858.67,2012-04-16
+2012-11-01,43,43,7353.19,13000,504,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,2595,2547.1,2012-11-01
+2012-11-01,3,3,75000,75000,655,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",18,0,8201.17,2012-11-01
+2012-11-01,53,72,4121.23,7500,557,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1210.09,2012-10-12
+2012-11-01,22,30,27021.43,45000,631,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,7804,2012-10-09
+2012-11-01,94,113,9602.67,20000,540,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4568.53,2012-10-18
+2012-11-01,21,21,25903.53,40000,678,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",18,0,10465.38,2012-11-01
+2012-11-01,8,7,15490.55,20000,614,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,10513.62,2012-10-31
+2012-11-01,8,27,35000,35000,772,"Referral","Loan - New Customer","ACH Pull",6,0,22086.5,2012-10-26
+2012-11-01,1,5,9571.72,15000,679,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3363.08,2012-11-01
+2012-11-01,9,17,15000,15000,734,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,6830.09,887.41,2012-10-31
+2012-11-01,4,10,25000,25000,548,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3784.18,2012-10-26
+2012-11-01,44,63,58258.86,75000,665,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",15,21261,13833.32,2012-08-29
+2012-11-01,41,60,6640.5,10000,633,"Direct","Loan - New Customer","ACH Pull",6,0,1296.09,2012-09-04
+2012-11-01,36,55,26197.92,35000,592,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6518.37,2012-09-11
+2012-11-01,5,5,16391.33,22000,591,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6561,2012-11-01
+2012-11-01,9,9,15000,15000,591,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1028.12,2012-11-01
+2012-11-01,45,0,0.6,15000,702,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5503.75,2012-04-06
+2012-11-01,17,17,44611.19,60000,632,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,9819.51,2012-11-01
+2012-11-01,6,25,22674.84,35000,577,"Referral","Loan - New Customer","ACH Pull",6,0,24689.28,2012-10-24
+2012-11-01,1,0,18578.05,30000,577,"Referral","Loan - Renewal","ACH Pull",6,0,6635,2012-11-01
+2012-11-01,11,11,28914.05,40000,701,"Referral","Loan - New Customer","ACH Pull",15,0,5912.55,2012-11-01
+2012-11-01,17,29,44067.16,60000,664,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",15,0,4511.34,2012-10-18
+2012-11-01,44,63,30000,30000,601,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,2555.66,2012-08-30
+2012-11-01,4,13,20000,20000,684,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,2975.26,2012-11-01
+2012-11-01,3,0,6859.42,15000,689,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5850.64,2012-11-01
+2012-11-01,61,80,21124.07,35000,687,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,10590.9,2012-08-06
+2012-11-01,9,9,1893.96,10000,542,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,20517.33,2012-11-01
+2012-11-01,35,54,51692.3,75000,675,"Direct","Loan - New Customer","ACH Pull",18,0,31458.9,2012-09-12
+2012-11-01,67,71,68343.89,75000,724,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,44089.03,2012-10-31
+2012-11-01,1,0,70793.73,75000,620,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,33887.75,2012-10-31
+2012-11-01,1,0,25377.14,40000,629,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,6871.84,2012-10-31
+2012-11-01,59,78,53967.8,75000,767,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,5670.75,2012-08-02
+2012-11-01,32,39,42621.44,50000,651,"FAP: Managed Application Program","Loan - New Customer","Split Funding",9,16836,5749.95,2012-11-01
+2012-11-01,1,0,1389.46,15000,634,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,8396.57,2012-11-01
+2012-11-01,12,31,23963.12,25000,547,"Direct","Loan - New Customer","ACH Pull",6,0,16651.15,2012-10-16
+2012-11-01,5,5,49278.22,120000,767,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,136102.09,2012-11-01
+2012-11-01,10,26,16911.25,25000,692,"Referral","Loan - Renewal","ACH Pull",6,0,7066.81,2012-10-18
+2012-11-01,4,7,12482.57,15000,647,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4366.08,2012-10-29
+2012-11-01,61,74,28895.35,35000,731,"Referral","Loan - New Customer","ACH Pull",6,0,14898.74,2012-08-06
+2012-11-01,5,17,5564.28,10000,607,"Referral","Loan - New Customer","ACH Pull",6,0,2643.54,2012-11-01
+2012-11-01,94,113,46370.64,100000,806,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,28214.33,2012-11-01
+2012-11-01,1,0,8004.52,13500,702,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,5801.35,2012-11-01
+2012-11-01,53,72,50000,50000,652,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,25829.93,2012-08-16
+2012-11-01,13,13,9782.9,15000,645,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,1309.08,2012-11-01
+2012-11-01,38,41,12558.55,25000,532,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,49458.34,2012-11-01
+2012-11-01,3,3,6322.78,30000,690,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,3307.33,2012-11-01
+2012-11-01,8,27,75000,75000,734,"FAP: Managed Application Program","Loan - New Customer","Split Funding",18,0,5248.81,2012-10-22
+2012-11-01,1,1,7037.48,15000,568,"Direct","Loan - New Customer","ACH Pull",6,0,3000.41,2012-11-01
+2012-11-01,35,45,7766.92,10000,583,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1692.03,2012-11-01
+2012-11-01,22,39,8621.09,15000,589,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5018.29,2012-10-17
+2012-11-01,145,0,0,10000,669,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5914.6,2011-12-29
+2012-11-01,21,40,17414.66,35000,628,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,620.42,2012-10-01
+2012-11-01,15,18,10000,10000,637,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2543.59,2012-10-29
+2012-11-01,3,3,4222.36,6000,634,"Direct","Loan - New Customer","ACH Pull",6,0,2227,2012-11-01
+2012-11-01,1,1,61886.78,75000,637,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",18,0,5569.1,2012-11-01
+2012-11-01,15,34,16626.89,25000,663,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,16498,2012-10-11
+2012-11-01,10,9,16277.48,20000,663,"Referral","Loan - Renewal","ACH Pull",6,0,4053.78,2012-11-01
+2012-11-01,1,1,29222.66,35000,631,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",18,0,3077.78,2012-11-01
+2012-11-01,1,0,13743.7,20000,669,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,10449.5,2012-10-31
+2012-11-01,9,18,15000,15000,672,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,0,825.41,2012-10-31
+2012-11-01,77,96,13463.1,15000,638,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3235.43,2012-07-16
+2012-11-01,12,20,67984.06,75000,677,"FAP: Managed Application Program","Loan - Renewal","Split Funding",6,0,5314.83,2012-11-01
+2012-11-01,16,16,40000,40000,689,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,5528.42,2012-10-29
+2012-11-01,52,62,16895.02,25000,632,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3599.25,2012-11-01
+2012-11-01,19,32,27004.62,40000,670,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,7999.95,2012-11-01
+2012-11-01,24,43,38143.98,50000,617,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,2527.46,2012-10-18
+2012-11-01,19,19,14805.16,30000,624,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,3177.5,3277.92,2012-11-01
+2012-11-01,11,30,6000,6000,577,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1117,2012-10-17
+2012-11-01,52,71,9407.73,10000,627,"Direct","Loan - New Customer","ACH Pull",6,0,4807.83,2012-09-13
+2012-11-01,10,10,8500.69,11000,572,"Direct","Loan - New Customer","ACH Pull",6,0,4597.63,2012-11-01
+2012-11-01,43,62,5716.68,15000,631,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,4838.58,2012-08-30
+2012-11-01,13,32,18899.61,35000,601,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,11594.39,2012-10-15
+2012-11-01,1,1,20633.86,30000,677,"FAP: Managed Application Program","Loan - Renewal","Transfer Account Vendors",12,0,3681.45,2012-11-01
+2012-11-01,31,47,125000,125000,690,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,38691.28,35748.25,2012-11-01
+2012-11-01,34,0,8785.6,20000,549,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3236.74,2012-11-01
+2012-11-01,18,37,32364.51,35000,605,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,16347.3,2012-10-05
+2012-11-01,63,82,48816.8,70000,694,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,27226.17,3948.49,2012-07-23
+2012-11-01,54,73,35000,35000,619,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,15515,3261.81,2012-08-15
+2012-11-01,41,51,48745.65,50000,644,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,2905.5,2012-11-01
+2012-11-01,2,2,51070.39,75000,679,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,6156.82,2012-11-01
+2012-11-01,61,80,31127.4,50000,729,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,26876.97,2012-08-02
+2012-11-01,11,21,22163.58,25000,540,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,16114.14,2879.72,2012-11-01
+2012-11-01,14,19,10727.02,12000,557,"Direct","Loan - Renewal","ACH Pull",6,0,1848.94,2012-11-01
+2012-11-01,22,41,34000,34000,535,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,12564.65,3188.34,2012-10-01
+2012-11-01,1,1,44686.84,50000,625,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",18,0,4306.26,2012-11-01
+2012-11-01,11,16,61862.85,75000,693,"Direct","Loan - Renewal","ACH Pull",12,0,16984.68,2012-10-17
+2012-11-01,1,0,12648.42,13000,558,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3901.58,2012-10-31
+2012-11-01,6,6,35000,35000,679,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,0,2337.03,2012-11-01
+2012-11-01,11,26,20536.75,23000,639,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1792.45,2012-10-30
+2012-11-01,3,3,54367.79,75000,673,"Promontory","Loan - Renewal","ACH Pull",12,0,8230.24,2012-10-30
+2012-11-01,68,87,19389.64,20000,539,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,8771,5435.44,2012-10-23
+2012-11-01,39,58,15147.08,20000,663,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,0,3247.39,2012-08-27
+2012-11-01,47,66,3312.65,6000,705,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1777.65,2012-10-05
+2012-11-01,7,16,6469.95,10000,508,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2723.07,2012-11-01
+2012-11-01,3,20,2228.07,16000,510,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2174.82,2012-11-01
+2012-11-01,71,0,0,35000,602,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,6363.82,2012-07-24
+2012-11-01,6,16,10887.22,25000,594,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,16907.65,2012-10-25
+2012-11-01,38,38,1916.1,10000,524,"Referral","Loan - New Customer","ACH Pull",6,0,2335.09,2012-11-01
+2012-11-01,48,67,32745.78,35000,563,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,8364.55,2012-08-23
+2012-11-01,180,0,470.93,30000,726,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,7649.24,6320.35,2011-03-31
+2012-11-01,33,52,33100.13,40000,649,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,8140.68,2012-09-26
+2012-11-01,20,39,8000,8000,570,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1859.26,2012-10-03
+2012-11-01,1,1,23782.28,35000,623,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,7565.2,4811.7,2012-11-01
+2012-11-01,33,0,592.12,35000,542,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,35532.77,2012-10-30
+2012-11-01,7,14,28552.72,35000,633,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,6981.58,2012-10-24
+2012-11-01,27,46,18670.59,20000,580,"Referral","Loan - Renewal","ACH Pull",6,0,1241.65,2012-09-25
+2012-11-01,25,44,9859.99,20000,647,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,4372.72,2012-09-28
+2012-11-01,33,52,21178.01,30000,694,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,4449.9,2012-09-17
+2012-11-01,9,18,12996.44,25000,639,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,27087.17,2012-10-29
+2012-11-01,11,0,2238.13,35000,628,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,19819.93,2012-11-01
+2012-11-01,29,0,28227.31,35000,536,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,22253.31,2012-11-01
+2012-11-01,19,15,10412.74,25000,653,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,7719.34,19903.59,2012-10-31
+2012-11-01,61,80,11265.63,35000,694,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,32231.14,2012-07-26
+2012-11-01,24,0,1699.91,25000,805,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,7150.44,2012-11-01
+2012-11-01,49,65,50000,50000,648,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,2307.31,2012-11-01
+2012-11-01,1,1,8384.18,15000,759,"Referral","Loan - New Customer","ACH Pull",9,0,10048.88,2012-11-01
+2012-11-01,112,0,68500.32,135000,739,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,35145.97,2012-11-01
+2012-11-01,32,37,35532.66,40000,612,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,11149.7,6793.1,2012-11-01
+2012-11-01,42,61,35000,35000,553,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,12276.67,2012-08-31
+2012-11-01,42,60,20000,20000,618,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,7486.72,2012-11-01
+2012-11-01,86,102,40000,40000,699,"FAP: Managed Application Program","Loan - Renewal","Split Funding",12,0,4606.33,2012-10-31
+2012-11-01,21,40,6917.47,10000,583,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2646.86,2012-10-02
+2012-11-01,61,80,22176.87,25000,527,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,152541.83,2012-07-05
+2012-11-01,4,23,75000,75000,612,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,7352.35,2012-10-26
+2012-11-01,2,3,15973.33,35000,658,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,14016.33,17059.25,2012-11-01
+2012-11-01,17,0,1280.86,25000,637,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,14348.85,2012-11-01
+2012-11-01,1,0,6312.8,50000,741,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,98932.54,2012-10-31
+2012-11-01,16,35,31675.91,40000,573,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,8793.87,2012-10-26
+2012-11-01,3,0,19041.65,20000,584,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,1484.9,2012-11-01
+2012-11-01,3,11,24758.09,25000,660,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,11339.7,3443.54,2012-11-01
+2012-11-01,4,14,14169.33,15000,570,"FAP: Managed Application Program","Loan - Renewal","Transfer Account Vendors",6,0,2233.5,2012-10-26
+2012-11-01,56,75,10109.96,15000,577,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6614.05,2012-08-29
+2012-11-01,2,2,5266.86,6000,646,"Direct","Loan - New Customer","ACH Pull",6,0,1226.23,2012-11-01
+2012-11-01,3,10,41087.85,55000,677,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,5371.67,2012-11-01
+2012-11-01,55,74,26273.01,30000,700,"Direct","Loan - Renewal","ACH Pull",6,0,9405.13,2012-08-02
+2012-11-01,1,0,1274.69,20000,672,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6183.47,2012-11-01
+2012-11-01,68,85,9152.37,10000,666,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,0,755.19,2012-11-01
+2012-11-01,6,6,40111.57,45000,674,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,14290.69,2012-10-30
+2012-11-01,55,64,41000,41000,723,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,13384.24,2012-11-01
+2012-11-01,11,11,44764.05,55000,652,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",18,0,11085.51,2012-11-01
+2012-11-01,64,83,6854.64,15000,581,"Direct","Loan - New Customer","ACH Pull",6,0,3938.46,2012-10-29
+2012-11-01,17,23,32426.04,35000,552,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,9304.06,2012-10-09
+2012-11-01,10,0,61.62,6000,618,"Referral","Loan - Renewal","ACH Pull",3,0,3091.44,2012-11-01
+2012-11-01,27,46,25000,25000,672,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4403.53,2012-09-24
+2012-11-01,6,21,23773.79,35000,641,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,7619.87,2012-10-30
+2012-11-01,9,24,40000,40000,610,"FAP: Managed Application Program","Loan - New Customer","Split Funding",9,17285.38,7419.72,2012-10-31
+2012-11-01,1,3,7000,7000,709,"Referral","Loan - New Customer","ACH Pull",6,0,2523.45,2012-10-31
+2012-11-01,13,32,21000,21000,570,"Referral","Loan - New Customer","ACH Pull",6,0,4705.97,2012-10-15
+2012-11-01,1,4,28233.07,35000,614,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,11304.94,2012-11-01
+2012-11-01,3,5,13650.21,15000,523,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2942.76,2012-11-01
+2012-11-01,54,60,3366.75,15000,522,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4255.52,2012-08-15
+2012-11-01,10,17,29085.99,45000,614,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",15,0,1993.63,2012-11-01
+2012-11-01,9,28,13937.32,25000,634,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,20863.89,2012-10-19
+2012-11-01,9,9,23943.37,30000,734,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",18,2298.56,3389.41,2012-11-01
+2012-11-01,16,35,28496.41,35000,651,"Referral","Loan - Renewal","ACH Pull",9,0,14344.36,2012-10-22
+2012-11-01,180,180,3.44,15000,680,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4727.77,2011-11-22
+2012-11-01,8,8,11327.38,20000,637,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,6331.58,2012-10-29
+2012-11-01,6,12,6828.16,10000,698,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,1350.38,2012-11-01
+2012-11-01,2,9,9217.27,18000,660,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4506.9,2012-10-31
+2012-11-01,97,0,-0.15,20000,569,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,12279.94,2012-06-14
+2012-11-01,12,31,47705.36,75000,688,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,11016.63,2012-10-17
+2012-11-01,1,5,75000,75000,638,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,30787.73,2012-11-01
+2012-11-01,143,162,20030.13,35000,553,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,5648.53,2012-10-03
+2012-11-01,11,11,3531.4,20000,699,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,6879.4,2012-11-01
+2012-11-01,53,72,21921.8,45000,652,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,10398.54,2012-10-26
+2012-11-01,1,0,7996.45,13000,551,"Direct","Loan - Renewal","ACH Pull",6,0,3548.19,2012-11-01
+2012-11-01,42,61,75000,75000,645,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,14859.67,2012-08-31
+2012-11-01,19,31,12434.33,13000,631,"Referral","Loan - New Customer","ACH Pull",6,0,7412.61,2012-10-24
+2012-11-01,32,51,9251.97,10000,573,"Direct","Loan - New Customer","ACH Pull",6,0,34257.31,2012-09-19
+2012-11-01,6,25,4548.96,10000,712,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2351.98,2012-10-24
+2012-11-01,8,8,49800.19,100000,720,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",18,0,33438.44,2012-11-01
+2012-11-01,33,52,49377.12,75000,711,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,10525.4,2012-09-20
+2012-11-01,1,13,4705.12,15000,609,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3131.06,2012-11-01
+2012-11-01,33,50,1669.76,10000,511,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2264.47,2012-10-31
+2012-11-01,180,0,0,35000,648,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,25194.01,2010-12-24
+2012-11-01,40,59,25194.64,50000,761,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,0,8036.31,2012-10-30
+2012-11-01,1,1,10636.7,15000,655,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,1622.29,2012-11-01
+2012-11-01,180,180,29612.9,40000,683,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,25160.44,2012-11-01
+2012-11-01,1,0,12923.42,20000,640,"FAP: Managed Application Program","Loan - New Customer","Transfer Account Vendors",12,0,2791.67,2012-11-01
+2012-11-01,26,45,11502.21,15000,592,"Direct","Loan - New Customer","ACH Pull",6,0,2019.45,2012-09-25
+2012-11-01,7,11,80000,80000,751,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,1164.06,2012-11-01
+2012-11-01,33,38,22605.45,50000,699,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,5546.74,2012-10-31
+2012-11-01,52,71,15000,15000,642,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,3365.5,2012-08-24
+2012-11-01,57,76,6453.42,10000,654,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3493.52,2012-09-13
+2012-11-01,56,75,25612.32,35000,605,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,8333.71,2012-08-13
+2012-11-01,9,28,35000,35000,683,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,3878.88,2012-10-31
+2012-11-01,7,12,26316.51,35000,509,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,17236,4931.75,2012-11-01
+2012-11-01,11,19,3721.46,12000,595,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,6327.6,2012-11-01
+2012-11-01,180,180,22510.35,50000,641,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",12,16840.99,46445.21,2012-11-01
+2012-11-01,62,64,7230.36,20000,536,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,11730.96,6213.26,2012-11-01
+2012-11-01,1,3,10041.28,15000,625,"Direct","Loan - New Customer","ACH Pull",6,0,2159.63,2012-10-31
+2012-11-01,27,37,17960.27,23000,596,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,12520,3209.72,2012-11-01
+2012-11-01,2,8,13978.52,18000,625,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,4447.46,2012-10-30
+2012-11-01,29,48,7006.53,10000,683,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,3022.38,2012-09-20
+2012-11-01,14,0,714.43,35000,637,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,5632.82,2012-10-31
+2012-11-01,5,15,18000,18000,606,"FAP: Managed Application Program","Loan - New Customer","Split Funding",6,0,2941.75,2012-11-01
+2012-11-01,42,42,19847.95,35000,592,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,10130.56,2012-11-01
+2012-11-01,45,64,19577.45,35000,657,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,9448.96,2012-09-06
+2012-11-01,17,16,10911.14,25000,536,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,7024,2012-11-01
+2012-11-01,18,0,3067.39,20000,667,"Direct","Loan - Renewal","ACH Pull",6,0,2758.55,2012-11-01
+2012-11-01,17,36,32868.71,35000,658,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",6,0,15800.5,2012-10-17
+2012-11-01,7,7,11170.08,30000,692,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",9,0,13078.8,2012-11-01
+2012-11-01,13,13,41509.35,50000,695,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",12,0,17441.15,2012-11-01
+2012-11-01,61,80,40000,40000,689,"Direct","Loan - New Customer","ACH Pull",6,0,13461.46,2012-07-26
+2012-11-01,17,36,7771.34,8000,532,"Referral","Loan - New Customer","ACH Pull",6,0,3526.42,2012-10-19
+2012-11-01,8,25,7287.1,10000,697,"Direct","Loan - Renewal","ACH Pull",6,0,1785.8,2012-11-01
+2012-11-01,4,21,4414.44,15000,717,"Direct","Loan - New Customer","ACH Pull",6,0,15127.4,2012-10-26
+2012-11-01,58,77,6890.41,40000,613,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,21526.16,2012-08-13
+2012-11-01,1,0,93541.75,100000,645,"FAP: Managed Application Program","Loan - Renewal","ACH Pull",9,0,13328.08,2012-11-01
+2012-11-01,62,81,14697.31,40000,583,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,38779.38,2012-07-23
+2012-11-01,39,58,15000,15000,518,"Direct","Loan - New Customer","ACH Pull",5,0,14469.02,2012-09-12
+2012-11-01,19,38,9355.63,10000,578,"FAP: Managed Application Program","Loan - New Customer","ACH Pull",6,0,2463.21,2012-10-04
+2012-11-01,22,41,75000,75000,625,"FAP: Managed Application Program","Loan - New Customer","Split Funding",12,0,14640.79,2012-11-01

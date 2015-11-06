@@ -1,0 +1,75 @@
+---
+title: "OnDeck Exercise"
+output: html_document
+---
+Loading in the data--easier to read and manipulate with plyr
+
+```{r}
+data <- read.csv("OnDeck Analytics Asssignment.csv")
+library(dplyr)
+plydata <- tbl_df(data) 
+head(plydata)
+summary(plydata)
+```
+
+Cut delinquent days into factors, inclusive on the right side
+
+```{r}
+plydata$days_delinquent_old <- cut(plydata$days_delinquent_old, c(0,1,5,10,30,60,180), labels = c("0", "1-5", "5-10", "10-30", "30-60", "60+"), right=FALSE, include.lowest=TRUE) 
+plydata$days_delinquent_new <- cut(plydata$days_delinquent_new, c(0,1,5,10,30,60,180), labels = c("0", "1-5", "5-10", "10-30", "30-60", "60+"), right=FALSE, include.lowest=TRUE)
+```
+
+Creating a transition matrix--note NaNs because there were no 0 day delinquencies to begin with
+
+```{r}
+change <- select(plydata, days_delinquent_new, days_delinquent_old)
+library(markovchain)
+mcX<-markovchainFit(change)$estimate
+mcX
+```
+
+Create another transition matrix showing the probability of movement from one group to another, weighted by outstanding principal balance.
+
+This should really be the old outstanding principal because we're looking at a time series to predict loan behavior
+
+```{r}
+principal <- plydata$new_outstanding_principal_balance
+second <- cbind(change, principal)
+```
+
+Standardizing principal to percent of mean
+
+```{r}
+second$principal <- second$principal/mean(second$principal)
+```
+
+Discrete values so you can estimate the transition probabilities by the sample proportions
+
+```{r}
+library(questionr)
+weightcount <- wtd.table(second$days_delinquent_old, second$days_delinquent_new, weights=second$principal)
+weightcount <- weightcount/rowSums(weightcount)   
+weightcount
+```
+
+Would expect the coverage ratio (approximated here by avg bank balance/new outstanding principal) to be key in determining loan performance
+
+```{r}
+plydata$coverage <- plydata$average_bank_balance__c/plydata$new_outstanding_principal_balance
+```
+
+Subsetting the data to begin investigating those loans that go from 10-30 days overdue to to 30-60 days
+
+```{r} 
+test <- subset(plydata, days_delinquent_old=="10-30")
+test$worse <- test$days_delinquent_new == "30-60"
+```
+
+Modeling fico here as well
+
+```{r}
+fit <- lm(formula = worse ~ fico + coverage, data = test)
+summary(fit)
+```
+
+Coverage is statistically significant (but not fico)--worth further investigation
